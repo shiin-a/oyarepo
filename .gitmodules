@@ -1,0 +1,3 @@
+[submodule "bookmark"]
+	path = bookmark
+	url = git@github.com:shiin-a/bookmark.git
